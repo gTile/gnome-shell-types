@@ -1,9 +1,9 @@
 // https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/ui/calendar.js
 
-import type GObject from '@girs/gobject-2.0';
-import type Gio from '@girs/gio-2.0';
-import type St from '@girs/st-12';
-import type Clutter from '@girs/clutter-12';
+import type GObject from '@gtile/gobject-2.0';
+import type Gio from '@gtile/gio-2.0';
+import type St from '@gtile/st-13';
+import type Clutter from '@gtile/clutter-13';
 
 import type { Message, MessageListSection } from './messageList.js';
 import type { Notification, MessageTray, Source } from './messageTray.js';

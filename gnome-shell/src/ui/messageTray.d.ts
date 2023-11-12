@@ -6,12 +6,12 @@
 
 
 
-import type GObject from '@girs/gobject-2.0';
-import type GLib from '@girs/glib-2.0';
-import type Gio from '@girs/gio-2.0';
-import type St from '@girs/st-12';
-import type Clutter from '@girs/clutter-12';
-import type GnomeDesktop from '@girs/gnomedesktop-4.0';
+import type GObject from '@gtile/gobject-2.0';
+import type GLib from '@gtile/glib-2.0';
+import type Gio from '@gtile/gio-2.0';
+import type St from '@gtile/st-13';
+import type Clutter from '@gtile/clutter-13';
+import type GnomeDesktop from '@gtile/gnomedesktop-4.0';
 
 import type { NotificationMessage } from './calendar.js';
 import type { Presence, PresenceStatus } from '../misc/gnomeSession.js';

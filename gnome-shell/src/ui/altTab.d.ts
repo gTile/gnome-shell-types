@@ -3,9 +3,9 @@
 
 
 
-import type GLib from '@girs/glib-2.0';
-import type Clutter from '@girs/clutter-12';
-import type Meta from '@girs/meta-12';
+import type GLib from '@gtile/glib-2.0';
+import type Clutter from '@gtile/clutter-13';
+import type Meta from '@gtile/meta-13';
 
 import { SwitcherPopup } from './switcherPopup.js'
 

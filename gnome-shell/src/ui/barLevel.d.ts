@@ -1,7 +1,7 @@
 // https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/ui/barLevel.js
 
-import type St from '@girs/st-12';
-import type Atk from '@girs/atk-1.0';
+import type St from '@gtile/st-13';
+import type Atk from '@gtile/atk-1.0';
 
 export namespace BarLevel {
     export interface ConstructorProperties extends St.DrawingArea.ConstructorProperties {

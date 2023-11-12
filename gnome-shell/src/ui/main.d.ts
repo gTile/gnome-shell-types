@@ -1,4 +1,4 @@
-import type Gio from '@girs/gio-2.0';
+import type Gio from '@gtile/gio-2.0';
 
 import { ComponentManager } from './components/__init__.js';
 import { AccessDialogDBus } from './accessDialog.js';

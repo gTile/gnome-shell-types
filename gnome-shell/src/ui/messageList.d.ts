@@ -2,8 +2,8 @@
 
 
 
-import type St from '@girs/st-12';
-import type Clutter from '@girs/clutter-12';
+import type St from '@gtile/st-13';
+import type Clutter from '@gtile/clutter-13';
 
 declare function _fixMarkup(text: string, allowMarkup?: boolean): string;
 

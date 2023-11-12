@@ -94,11 +94,11 @@
  * @see https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/ui/background.js
  */
 
-import type Gio from '@girs/gio-2.0';
-import type Clutter from '@girs/clutter-12';
-import type Meta from '@girs/meta-12';
-import type GnomeDesktop from '@girs/gnomedesktop-4.0';
-import type GnomeBG from '@girs/gnomebg-4.0';
+import type Gio from '@gtile/gio-2.0';
+import type Clutter from '@gtile/clutter-13';
+import type Meta from '@gtile/meta-13';
+import type GnomeDesktop from '@gtile/gnomedesktop-4.0';
+import type GnomeBG from '@gtile/gnomebg-4.0';
 
 import { EventEmitter } from '../misc/signals.js';
 

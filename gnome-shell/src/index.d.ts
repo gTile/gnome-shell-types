@@ -1,4 +1,4 @@
-import "@girs/gjs";
+import "@gtile/gjs";
 
 export * from './types/index.js';
 

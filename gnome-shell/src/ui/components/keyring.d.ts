@@ -1,7 +1,7 @@
 // https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/ui/components/keyring.js
 
 
-import type Gcr from '@girs/gcr-4';
+import type Gcr from '@gtile/gcr-4';
 
 declare class KeyringPrompter extends Gcr.SystemPrompter {
     constructor();

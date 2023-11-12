@@ -1,6 +1,6 @@
 // https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/misc/signals.js
 
-import type { SignalMethods } from '@girs/gjs';
+import type { SignalMethods } from '@gtile/gjs';
 
 export interface EventEmitter extends SignalMethods {}
 

@@ -1,6 +1,6 @@
 // https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/misc/gnomeSession.js
 
-import type Gio from '@girs/gio-2.0';
+import type Gio from '@gtile/gio-2.0';
 
 /**
  * Enumeration of the possible presence statuses

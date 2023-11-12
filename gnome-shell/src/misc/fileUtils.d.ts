@@ -1,6 +1,6 @@
 // https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/misc/fileUtils.js
 
-import type Gio from '@girs/gio-2.0';
+import type Gio from '@gtile/gio-2.0';
 
 export interface SubdirInfo {
     dir: Gio.File
